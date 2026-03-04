@@ -12,12 +12,16 @@ L'obiettivo è ottimizzare il Lead Time di 8 settimane attraverso una pianificaz
 
 ## 📂 Contenuto del Repository
 - **Diagramma di Gantt**: Analisi temporale con evidenza del percorso critico (attività in rosso).
+
+  👉 **[View Full PDF Report](https://github.com/furnarifilippo2-cmyk/Supply-Chain-Project-BPMN-Gantt/blob/main/Machine%20Supply%20Chain%20Project/Machine%20Supply%20Chain.pdf)**
+  
 - **Diagramma BPMN**: Flusso logico tra i reparti (PM, Engineering, Production, Logistics).
+
+  ![BPMN Diagram](https://raw.githubusercontent.com/furnarifilippo2-cmyk/Supply-Chain-Project-BPMN-Gantt/main/Machine%20Supply%20Chain%20Project/Machine%20Supply%20Chain.png)
 
 ## 🚀 Key Highlights
 - Gestione dei **Long Lead Items** (materiali critici).
 - Implementazione di gateway decisionali per la gestione del **Rework** e del **FAT/SAT**.
 - Ottimizzazione delle fasi in parallelo (Cablaggio ed Engineering Software).
 
-  ![Gantt Chart](./percorso-tua-immagine-gantt.png)
-  ![BPMN Diagram](./percorso-tua-immagine-bpmn.png)
+
